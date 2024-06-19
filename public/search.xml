@@ -1691,7 +1691,7 @@ and Development Nuclear Energy Agency
 <li><strong>ENDF</strong></li>
 </ul>
 <h1 id="专业名词解释">专业名词解释</h1>
-<h1 id="eoi">EOI</h1>
+<h2 id="eoi">EOI</h2>
 <p>"EOI" 代表 "End Of
 Irradiation"，即“辐照结束”，用来指代燃料组件或单个燃料棒在反应堆中辐照的结束点。在EOI时刻，燃料已经达到了其设计寿命的终点，此时会进行停堆，并开始后续的冷却、运输和处理过程。</p>
 <p>在核燃料的背景下，EOI是重要的时间节点: *
@@ -1715,6 +1715,14 @@ Reactor）是从ORIGEN系列代码发展而来，这些代码最初被设计用�
 <li>先进的反应堆物理：该程序可以模拟不同类型的反应堆，包括压水堆（PWR）、沸水堆（BWR）、重水堆（CANDU）、快中子堆（如LMFBR）等，并考虑了各自的中子能谱特性。</li>
 <li>考虑冷却时间：ORIGEN-APR能够考虑燃料辐照结束后的冷却时间对同位素组成的影响，这对于核材料的管理和处置非常重要。</li>
 </ul>
+<h1 id="常见反应堆">常见反应堆</h1>
+<h2 id="vver">VVER</h2>
+<p>参见<a
+href="https://www.bilibili.com/read/cv25679314/">VVER反应堆简介</a></p>
+<p>水-水高能反应堆（Water-water energetic
+reactor），简称WWER或VVER，为苏联于上世纪70年代研发的压水反应堆，与美国的PWR相比，特点为采用卧式蒸汽发生器、六边形燃料组件、无底部穿孔压力容器和高容量稳压器。</p>
+<h2 id="示意图">示意图</h2>
+<h2 id="反应堆参数">反应堆参数</h2>
 ]]></content>
       <categories>
         <category>Physics</category>
