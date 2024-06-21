@@ -1694,11 +1694,12 @@ and Development Nuclear Energy Agency
 <h2 id="eoi">EOI</h2>
 <p>"EOI" 代表 "End Of
 Irradiation"，即“辐照结束”，用来指代燃料组件或单个燃料棒在反应堆中辐照的结束点。在EOI时刻，燃料已经达到了其设计寿命的终点，此时会进行停堆，并开始后续的冷却、运输和处理过程。</p>
-<p>在核燃料的背景下，EOI是重要的时间节点: *
-它标志着燃料从反应堆中移出，开始冷却期。 *
-它影响燃料的放射性和热输出，因为随着时间的推移，短寿命的放射性核素会衰变。
-*
-它决定了燃料中裂变产物和转换材料的库存量，这些材料的组成是评估燃料特性和后续处理选项的关键。</p>
+<p>在核燃料的背景下，EOI是重要的时间节点:</p>
+<ul>
+<li>它标志着燃料从反应堆中移出，开始冷却期。</li>
+<li>它影响燃料的放射性和热输出，因为随着时间的推移，短寿命的放射性核素会衰变。</li>
+<li>它决定了燃料中裂变产物和转换材料的库存量，这些材料的组成是评估燃料特性和后续处理选项的关键。</li>
+</ul>
 <h1 id="核反应堆计算程序">核反应堆计算程序</h1>
 <h2 id="origen-ornl-isotope-generation-and-depletion-code">ORIGEN (ORNL
 Isotope Generation and Depletion code)</h2>
@@ -1731,6 +1732,14 @@ reactor），简称WWER或VVER，为苏联于上世纪70年代研发的压水反
 <li>Bilodid, Y., Fridman, E., &amp; Lötsch, T. X2 VVER-1000 benchmark
 revision: Fresh HZP core state and the reference Monte Carlo solution.
 Annals of Nuclear Energy, <strong>144</strong>, 107558 (2020).</li>
+<li>Hossain, M. I., Mollah, A. S., Akter, Y., &amp; Fardin, M. Z.
+Neutronic calculations for the VVER-1000 MOX core computational
+benchmark using the OpenMC code. Nuclear Energy and Technology,
+<strong>9</strong>, 215 (2023).</li>
+<li>Khuwaileh, B. A., Al-Shabi, M., &amp; Assad, M. E. H. Artificial
+Neural Network based Particle Swarm Optimization solution approach for
+the inverse depletion of used nuclear fuel. Annals of Nuclear Energy,
+<strong>157</strong>, 108256 (2021).</li>
 </ol>
 ]]></content>
       <categories>
