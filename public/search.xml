@@ -1854,6 +1854,35 @@ fission统计的是在指定的几何区域（由 Tally
 <ul>
 <li>里程碑： 2024.06.10 会简单地弹唱《晴天》</li>
 </ul>
+<h1 id="即兴伴奏">即兴伴奏</h1>
+<h2 id="三和弦">三和弦</h2>
+<ul>
+<li><strong>大三度</strong>：两个全音相加为大三度</li>
+<li><strong>小三度</strong>：一个全音加一个半音</li>
+<li><strong>大三和弦</strong>：根音和三音是大三度，三音和五音是小三度</li>
+<li><strong>小三和弦</strong>：根音和三音是小三度，三音和五音是大三度</li>
+<li><strong>减三和弦</strong>：根音和三音是小三度，三音和五音是小三度</li>
+<li><strong>增三和弦</strong>：根音和三音是大三度，三音和五音是大三度，听起来有种扩张的感觉</li>
+</ul>
+<ol type="1">
+<li>C大调中一共有7个基本三和弦 1 2m 3m 4 5 6m 7dim</li>
+</ol>
+<h2 id="七和弦">七和弦</h2>
+<h3 id="大七度和小七度">大七度和小七度</h3>
+<ul>
+<li><strong>大七度</strong>：两音之间只包含一个半音就是大七度。比如:do到si七度两音之间只包含一个半音，所以是大七度，re到升do七度两音之间只包含一个半音，所以是大七度。</li>
+<li><strong>小七度</strong>：小七度:两音之间包含两个半音就是小七度。比如:do
+降si七度两音之间包含两个半音，所以是小七度，re到do七度两音之间包含两个半音，所以是小七度。听起来紧张一点</li>
+</ul>
+<p><strong>Tips</strong> 1.
+C大调中只有do-xi和fa-mi是大七度，其余都是小七度 2.
+小二度的转位就是大七度</p>
+<h3 id="大七和弦大大七和弦">大七和弦（大大七和弦）</h3>
+<ul>
+<li><strong>大七和弦</strong>：根音和三音是大三度、三音和五音是小三度、五音和七音是大三度。根音和七音是大七度。记和弦口诀，大小大，故叫大七。标记为
+<span class="math inline">\({\rm C_{maj7}}\)</span></li>
+</ul>
+<p><strong>Tips</strong> 1. 大三和弦基础上根音加大七度就是大七和弦</p>
 <div style="text-align: right; font-style: italic;">
 <p>发布日期：<span style="font-weight: bold;">2024年05月18日</span></p>
 </div>
